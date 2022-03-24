@@ -1,0 +1,5 @@
+Identificar los tipos de herencia.
+https://docs.google.com/presentation/d/1ghZkWWi5LOSibOTaVjteYxgyBm6G83nhW5B5BVqkV6c/edit#slide=id.g11de7d32f70_1_6
+
+Poner el tipo de relación de una clase con otra
+https://docs.google.com/presentation/d/1pMD3ONO1Urug8n9ZWnnURv0lS_0F0PNi1O5rv73nROY/edit
